@@ -11,8 +11,7 @@ import numpy as np
 [2. Image Manipulation](https://github.com/AnureetKaurTiwana/Numpy/blob/main/Image%20Modification_Pyplot%20%26%20Numpy.ipynb)
 
 Functions used:
-
-1.numpy slicing
+1. numpy slicing
 2. plt.imshow()
 3. plt.imread()
 4. np.transpose()
