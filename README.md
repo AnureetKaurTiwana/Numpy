@@ -13,9 +13,13 @@ import numpy as np
 Functions used:
 
 numpy slicing
+
 plt.imshow()
+
 plt.imread()
+
 np.transpose()
+
 plt.imsave()
 
 Color filters, flipping, croping, rotating, blurring.
