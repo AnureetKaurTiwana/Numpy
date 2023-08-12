@@ -7,3 +7,15 @@ import numpy as np
 3. np.loadtxt()
 4. Masking
 5. np.whre
+
+[2. Image Manipulation](https://github.com/AnureetKaurTiwana/Numpy/blob/main/Image%20Modification_Pyplot%20%26%20Numpy.ipynb)
+
+Functions used:
+
+numpy slicing
+plt.imshow()
+plt.imread()
+np.transpose()
+plt.imsave()
+
+Color filters, flipping, croping, rotating, blurring.
