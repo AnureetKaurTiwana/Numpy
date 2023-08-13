@@ -21,8 +21,7 @@ Color filters, flipping, croping, rotating, blurring.
 
 [3. Fitbit Analysis using numpy](https://github.com/AnureetKaurTiwana/Numpy/blob/main/FitBit%20Analysis.ipynb)
 
-
-
+[Data Used is](https://github.com/AnureetKaurTiwana/Numpy/blob/main/fitbit.txt)
 The following functions are used:
 
 1. np.argmin() find index of the minimum value in an array
