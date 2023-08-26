@@ -34,3 +34,32 @@ The following functions are used:
 7. np.unique() find uniques values in an array
 8. np.unique(array, return_counts=True) find uniques values in an array along with the count of values
 
+[4.Concatenate&Stack_Arrays](https://github.com/AnureetKaurTiwana/Numpy/blob/main/Concatenate%26Stack_Arrays.ipynb)
+
+
+1.Zero dimentional array
+
+2.np.array
+
+3.np.zeros()
+
+4.np.arange()
+
+5.np.shape
+
+6.np.ndim
+
+7.np.reshape()
+
+8 np.gentext()
+
+9.np.squeeze()
+
+10.np.expand_dims()
+
+11.np.concatenate()
+
+12.np.stack()
+
+13.np.hstack()
+  
